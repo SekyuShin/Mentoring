@@ -10,3 +10,13 @@ C_code/1_week/1_week\.vcxproj\.user
 C_code/1_week/\.vs/
 
 C_code/1_week/Debug/
+
+C_code/1_week/Project1/\.vs/Project1/v15/
+
+C_code/1_week/Project1/Debug/
+
+*.sln
+
+*.vcxproj
+
+*.user
