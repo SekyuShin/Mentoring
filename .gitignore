@@ -1,0 +1,12 @@
+
+*.filters
+
+C_code/1_week/1_week\.sln
+
+C_code/1_week/1_week\.vcxproj
+
+C_code/1_week/1_week\.vcxproj\.user
+
+C_code/1_week/\.vs/
+
+C_code/1_week/Debug/
