@@ -21,8 +21,28 @@ C_code/1_week/Project1/Debug/
 
 *.user
 
-C_code/
-
 *.obj
 
 *.ipch
+
+C_code/1_weeks/\.vs/
+
+C_code/1_weeks/Debug/
+
+C_code/2_week/\.vs/
+
+C_code/2_week/Debug/
+
+C_code/3_week/\.vs/
+
+C_code/3_week/Debug/
+
+C_code/4_weeks/\.vs/
+
+C_code/4_weeks/Debug/
+
+*.lnk
+
+C_code/pBank/\.vs/
+
+C_code/pBank/Debug/
