@@ -6,7 +6,9 @@ int main() {
 	int input;
 	printf("1번째 숫자를 입력하세요 \n");
 	scanf("%d", &input);
-	max = input;
+	if (max < input) {
+		max = input;
+	}
 	printf("2번째 숫자를 입력하세요 \n");
 	scanf("%d", &input);
 	if (max < input) {
