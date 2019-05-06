@@ -46,3 +46,19 @@ C_code/4_weeks/Debug/
 C_code/pBank/\.vs/
 
 C_code/pBank/Debug/
+
+C_code/2_week/Project1/\.vs/Project1/v15/
+
+*.exe
+
+*.ilk
+
+*.log
+
+*.pdb
+
+*.tlog
+
+*.idb
+
+C_code/3_week/Project1/\.vs/Project1/v15/

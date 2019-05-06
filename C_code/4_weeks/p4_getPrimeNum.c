@@ -13,7 +13,7 @@ int main() {
 		for (j = 2; j <= i; j++) {
 			if (i%j == 0) {
 				if (i != j) break;
-				else printf("%d\t", j);
+				else printf("%d  ", j);
 			}
 		}
 	}
