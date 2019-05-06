@@ -22,3 +22,7 @@ C_code/1_week/Project1/Debug/
 *.user
 
 C_code/
+
+*.obj
+
+*.ipch
